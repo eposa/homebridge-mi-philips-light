@@ -1,21 +1,21 @@
 {
   "name": "homebridge-mi-philips-light-fork",
   "version": "0.2.9",
-  "description": "XiaoMi Philips light RandomMetalhead Fork",
+  "description": "XiaoMi Philips light eposa Fork",
   "keywords": [
     "homebridge-plugin",
     "xiaomi",
     "mi",
     "philips"
   ],
-  "author": "RandomMetalhead",
-  "homepage": "https://github.com/RandomMetalhead/homebridge-mi-philips-light",
+  "author": "eposa",
+  "homepage": "https://github.com/eposa/homebridge-mi-philips-light",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RandomMetalhead/homebridge-mi-philips-light.git"
+    "url": "git+https://github.com/eposa/homebridge-mi-philips-light.git"
   },
   "bugs": {
-    "url": "https://github.com/RandomMetalhead/homebridge-mi-philips-light/issues"
+    "url": "https://github.com/eposa/homebridge-mi-philips-light/issues"
   },
   "engines": {
     "homebridge": ">=0.4.30",
