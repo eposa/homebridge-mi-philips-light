@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-mi-philips-light-fork",
-  "version": "0.2.9",
-  "description": "XiaoMi Philips light eposa Fork",
+  "name": "@eposa/homebridge-mi-philips-light",
+  "version": "0.3.0",
+  "description": "XiaoMi Philips light eposa",
   "keywords": [
     "homebridge-plugin",
     "xiaomi",
